@@ -1,11 +1,3 @@
-'''
-    Minigame Hub For Diferent Minigames In Python
-
-    - User name is taken in and they are greeted.
-    - They are asked to play any of the available games.
-    - Once chosen, they can replay that game for as long as they like, or have a choice to switch games or logout.
-    - The games included are: Hangman, Time Attack Mental Maths, Rock Paper Scissors PVC, Reaction Time Tester.
-'''
 import time
 import random
 import operator
